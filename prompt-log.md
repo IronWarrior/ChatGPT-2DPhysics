@@ -1,4 +1,14 @@
-> let's create a 2D physics engine
+## Overview
+
+This file contains the full log between me and GPTChat to create the physics engine code. My prompts are written as quotes, like so
+
+> Hey GPT chat, do something!
+
+While GPTChat's responses follow as paragraphs. Note that I have to transform the original raw HTML into Markdown, so there may be some formatting errors here that are not due to GPTChat. However, often you may notice that some of GPTChat's responses are truncated. This is actually present in the original message log, as it results from GPTChat hitting the character limit for their outputs.
+
+## Log
+
+> [Initial prompt] let's create a 2D physics engine
 
 Sure, creating a 2D physics engine can be a fun and educational project. Here are the basic steps you can follow to create a simple 2D physics engine:
 
