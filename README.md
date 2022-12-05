@@ -17,7 +17,7 @@ And then manually joined the segmented blocks of code.
 
 ## Remarks
 
-My approach was to instruct ChatGPT to build out the program in a piecemeal way. I typically would ask it to create some boilerplate code first, and then to fill in the gaps. For example, the first prompt is:
+My approach was to instruct ChatGPT to build out the program in a piecemeal way. I typically would ask it to create some boilerplate code first, and then to fill in the gaps. For example, the second prompt is:
 
 > okay, let's do it together. It will use C# language. Write out the boilerplate code to get us started
 
